@@ -1,0 +1,21 @@
+* {
+    background-color:rgb(249, 230, 230);
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.dark{
+    border: 2px solid black;
+    padding:6px;
+    border-radius: 8px;
+}
+
+.tog{
+    margin-top: 10px;
+    background-color: black;
+}
